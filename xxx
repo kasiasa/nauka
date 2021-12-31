@@ -1,4 +1,5 @@
 zadania domowe:
 
 1. skonfigurować personal access token, żeby automatycznie pushować commity
-2. 
+2. wysłać jakąkolwiek zmianę na repozytorium - musi się kompilować
+3*. skonfigurować visual studio code, żeby kompilować w paru klikach
